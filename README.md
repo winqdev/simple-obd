@@ -30,9 +30,9 @@ pip2 install obd
 <br>
 For **Python 3.x/2.x**
 <br>
-```
+````
 python3 main.py
-```
+````
 <br>
 or
 <br>
