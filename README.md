@@ -6,7 +6,7 @@ Simple OBD Scanner made with python-obd package
 <br>
 2. Select your Directory using:
 <br>
-`cd <folder-path>`
+cd <folder-path>
 <br>
 <br>
 3. Install required packages by typing:
