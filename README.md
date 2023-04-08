@@ -15,6 +15,7 @@ For **Python 3.x**
 <br>
 pip3 install colorama obd
 <br>
+<br>
 For **Python 2.x**
 <br>
 pip2 install colorama
