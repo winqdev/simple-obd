@@ -12,11 +12,13 @@ cd <folder-path>
 3. Install required packages by typing:
 <br>
 For **Python 3.x**
+<br>
 pip3 install colorama obd
 <br>
 For **Python 2.x**
 <br>
 pip2 install colorama
+<br>
 pip2 install obd
 <br>
 <br>
