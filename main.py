@@ -8,7 +8,7 @@ colorama.init()
 # Functions
 def status():
     # Connection
-    connection = obd.OBD(portstr="COM6")
+    connection = obd.OBD() # use: connection = obd.OBD(portstr="<com port>") for defined COM port
     # RPM
     rpmcmd = obd.commands.RPM
     rpmres = connection.query(rpmcmd)
