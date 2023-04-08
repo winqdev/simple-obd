@@ -15,8 +15,9 @@ For **Python 3.x**
 `pip3 install colorama obd`
 <br>
 For **Python 2.x**
-`pip2 install colorama
-pip2 install obd`
+<br>
+`pip2 install colorama`
+`pip2 install obd`
 <br>
 <br>
 4. Running
