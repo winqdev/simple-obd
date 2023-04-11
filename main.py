@@ -46,7 +46,7 @@ def status():
 
 def dtc():
     # Connection
-    connection = obd.OBD(portstr="COM6")
+    connection = obd.OBD() # use: connection = obd.OBD(portstr="<com port>") for defined COM port
     # DTC
     dtcs = connection.query(obd.commands.GET_DTC)
     print(f"DTCs: {dtcs.value}")
